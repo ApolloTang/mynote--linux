@@ -1,5 +1,6 @@
+## Note on `cat`
 
-Document: [gnu-cat man page](https://www.man7.org/linux/man-pages/man1/cat.1.html) 
+
 
 ```
 -A   --show-all, equivalent to -vET
@@ -19,3 +20,10 @@ What is `M-` notation?
 
 illustration: [ipynb](./ipynb-cat/index.ipynb)
 
+
+
+## References:
+
+Document: [gnu-cat man page](https://www.man7.org/linux/man-pages/man1/cat.1.html) 
+
+ [Linux cat Command (With Examples) | phoenixNAP KB](https://phoenixnap.com/kb/linux-cat-command) 
