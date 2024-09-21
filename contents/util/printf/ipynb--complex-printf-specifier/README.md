@@ -1,7 +1,7 @@
 
 
 ```
-%[flags][width][.precision]conversion_specification
+%[flags][minimum-width][.precision if floating point][conversion_specification]
 ```
 
 
@@ -18,3 +18,5 @@
 | ` `    | (space) Produce a leading space for positive numbers.        |
 | `+`    | Sign positive numbers. By default, printf only signs negative numbers. |
 
+
+[notebook: complex formating example](./format-examples.ipynb)
