@@ -18,6 +18,16 @@
 [printf(3): formatted output conversion - Linux man page](https://linux.die.net/man/3/printf) 
 
 
+### The Bash Hackers Wiki
+
+[The printf command [Bash Hackers Wiki]](https://web.archive.org/web/20230324061309/https://wiki.bash-hackers.org/commands/builtin/printf)  
+
+[Print a horizontal line [Bash Hackers Wiki]](https://web.archive.org/web/20230315082012/https://wiki.bash-hackers.org/snipplets/print_horizontal_line)   
+ 
+[pdfs](./pdf--printf--bash-hackers-wiki/README.md) 
+
+
+
 
 ### Other
 
@@ -25,7 +35,7 @@
 
 [Advanced Bash-Scripting Guide | tldp.org/LDP/abs/html/abs-guide.html#PRINTFREF ](https://tldp.org/LDP/abs/html/abs-guide.html#PRINTFREF) 
 
-[The printf command - The Bash Hackers Wiki](https://flokoe.github.io/bash-hackers-wiki/commands/builtin/printf/) 
+
 
 [printf in Bash Builtins (Bash Reference Manual)](https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html#index-printf) 
 
