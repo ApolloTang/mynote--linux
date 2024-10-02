@@ -14,3 +14,7 @@
 [effective-shell.com](https://effective-shell.com/) 
 
 [Welcome to The UNIX Grymoire!](https://www.grymoire.com/Unix/) 
+
+
+
+ [An A-Z Index of the Linux command line - SS64.com](https://ss64.com/bash/) 
