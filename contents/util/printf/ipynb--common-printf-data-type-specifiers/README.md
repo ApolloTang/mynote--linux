@@ -3,11 +3,11 @@
 | Specifier  | Description                                         |
 | ---- | --------------------------------------------------------- |
 | d    | Format a number as a signed decimal integer.              |
-| f    | Format and output a floating-point number.  [eg](./index.ipynb#f)              |
+| f    | Format and output a floating-point number.                |
 | o    | Format an integer as an octal number                      |
 | s    | Format a string                                           |
 | x    | Format an integer as a hexadecimal number using lowercase |
 | X    | Format an integer as a hexadecimal number using uppercase |
 | %    | Print a literal % symbol (i.e., specify %%).              |
 
-
+[link to notebook](./index.ipynb)
