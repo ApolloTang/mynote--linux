@@ -1,16 +1,13 @@
+# Complex printf specifier
 
-
+Syntax:
 ```
 %[flags][minimum-width][.precision if floating point][conversion_specification]
 ```
-
-
+ <br />
 
 ## flags
-
-
-
-| <br /> |                                                              |
+| flag   | descriptions                                                 |
 | ------ | ------------------------------------------------------------ |
 | `#`    | Use the alternate base format for output.                    |
 | `0`    | Pad the output with zeros.                                   |
